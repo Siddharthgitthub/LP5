@@ -1,0 +1,6 @@
+Change runtime type
+connected to a hosted runtime
+!/usr/local/cuda/bin/nvcc --version
+!pip install git+git://github.com/andreinechaev/nvcc4jupyter.git
+%load_ext nvcc_plugin
+%%cu 
