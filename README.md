@@ -1,4 +1,4 @@
-Change runtime type
+Change runtime type<br>
 connected to a hosted runtime
 !/usr/local/cuda/bin/nvcc --version
 !pip install git+git://github.com/andreinechaev/nvcc4jupyter.git
